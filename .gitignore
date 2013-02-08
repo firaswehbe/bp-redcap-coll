@@ -1,3 +1,7 @@
 bpcoll_*.csv
 project_info.txt
 *.swp
+.Rproj.user
+*.Rproj
+*.Rhistory
+*.RData

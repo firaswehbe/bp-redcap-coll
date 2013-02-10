@@ -1,4 +1,5 @@
 bpcoll_*.csv
+bpcoll_*.png
 project_info.txt
 *.swp
 .Rproj.user

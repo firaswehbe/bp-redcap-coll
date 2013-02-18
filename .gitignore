@@ -6,3 +6,4 @@ project_info.txt
 *.Rproj
 *.Rhistory
 *.RData
+*.Rout
